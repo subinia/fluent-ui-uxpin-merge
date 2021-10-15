@@ -23,7 +23,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "uxpin": "npx uxpin-merge --disable-tunneling"
+    "uxpin": "npx uxpin-merge --disable-tunneling",
+    "push": "uxpin-merge push"
   },
   "eslintConfig": {
     "extends": [
